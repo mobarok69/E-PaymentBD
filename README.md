@@ -11,4 +11,5 @@ user_id : 1234
 month : 01/2020
 This system is testing perpos.actually This Data will come from another site.
 
+Demo Emomerce Site Link : https://mobarok.tk/ecomdemo/
 Apk file included.Please check.
